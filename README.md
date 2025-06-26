@@ -3,6 +3,9 @@
 ## **Project Overview**
 This project aims to build a comprehensive machine learning solution for predicting customer credit risk and segmenting customers based on financial behavior. It combines classification and clustering techniques to help financial institutions identify risky customers and design targeted loan strategies, enabling smarter, data-driven lending decisions.
 
+## Dataset Used
+<a href="https://github.com/MashettyKeerthi/Credit-Risk-Prediction-and-Customer-Segmentation-for-Smarter-Lending-Decisions/blob/main/Credit%20Scoring%20and%20Segmentation.csv"> Credit Risk Prediction and Customer Segmentation dataset </a>
+
 ## Objectives
 
 - Predict whether a customer is high risky or low risky using classification models.
